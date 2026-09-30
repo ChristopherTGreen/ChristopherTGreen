@@ -48,6 +48,7 @@ I can be reached through my LinkedIn, email, and phone number.
 # :link: Link to Project Directory by List
 * **[Featured Collaborative Projects](https://github.com/users/ChristopherTGreen/lists/featured-collaborative-projects)**
   * [Crowd-Surfers-Technical-Breakdown](https://github.com/ChristopherTGreen/Crowd-Surfers-Technical-Breakdown)
+  * [Sanity-Check-Technical-Breakdown](https://github.com/ChristopherTGreen/Sanity-Check-Technical-Breakdown)
 
 * **[Featured Game Projects](https://github.com/users/ChristopherTGreen/lists/featured-game-projects)**
   * [Blade-Cycle](https://github.com/ChristopherTGreen/Blade-Cycle)
@@ -63,6 +64,7 @@ I can be reached through my LinkedIn, email, and phone number.
 
 * **[WIP](https://github.com/users/ChristopherTGreen/lists/wip)**
   * 🔒 Project Kobayashi Maru *(Private)*
+  * [Sanity-Check-Technical-Breakdown](https://github.com/ChristopherTGreen/Sanity-Check-Technical-Breakdown)
 
 * **[Archived Prototypes](https://github.com/users/ChristopherTGreen/lists/archived-prototypes)**
   * [ProcGenGrid](https://github.com/ChristopherTGreen/ProcGenGrid)
