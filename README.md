@@ -1,12 +1,15 @@
-# Hi there 👋
+# Hello there 👋
 
-I'm Christopher, currently a game programmer & tools engineer attending UCSC. 
+## Introduction
+Hello, I'm Christopher Green, a software engineer focusing on game AI, gameplay systems, and some tools engineering. Currently studying at UCSC as a Computer Science: Game Design major. Currently a Game AI programmer / Tools Engineer at Game Design & Art (GDA) Collaboration club. 
 
-Currently working on a game for GDA, and releasing a tool which was used for hitboxes once patched up.
+My main tech stack is C#, C++, JavaScript, and Gdscript. In regards to engines, I am familiar with Godot, Unity, Phaser.js and currently learning Unreal Engine. Some of my favorite outside tools include Figma, Canva, Miro (love this for architecture), Reaper and Musescore. My Unreal Engine project will still be private, but it involves a hierarchical state machine, focusing on Newtonian physics for the base movement. On the side I compose music, inspired by my favorite games or films.
 
-My main tech stack is C#, C++, JavaScript, and Gdscript. In regards to engines, I am familiar with Godot, Unity, and Phaser.js. Some of my favorite outside tools include Figma, Canva, Repear, Miro and Musescore.
+## In my Freetime
+In relation to my favorite games, its a long list, but here are a "few": Halo series, Battlefront 2, Command & Conquer series, Star Trek Armada, Arkham Series, Expedition 33, Helldivers 2, Cyberpunk 2077, Fallout NV, Squad, Final Fantasy 7, SCP: Containment Breach, and Space Engineers. Personally, I love to research the code, technologies or architecture behind a game, as of recent I've been looking at the code behind SCP: Containment Breach's procedural generation system. Despite being brute forced, it contains a unique charm. Besides listening to developers breakdown their games, I've also begun reading books, specifically the Game AI Pro book, edited by Steve Rabin. 
 
-I have some pinnned projects, some still under development, or others which weren't fully explored more in depth.
+## Projects
+Below the page is an organized list of projects with multiple different categories they may fall under. I'm still working on a technical breakdown of my work on Sanity Check, as well as some other projects.
 
 I can be reached through my LinkedIn, email, and phone number.
 
