@@ -44,7 +44,7 @@ I can be reached through my LinkedIn, email, and phone number.
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/users/ChristopherTGreen/lists/archived-prototypes">🧪 Archived Prototypes</a></h3>
-      <p>Half-built proofs-of-concept and technical experiments.</p>
+      <p>Half-built concepts and technical experiments.</p>
     </td>
     <td width="50%"></td>
   </tr>
