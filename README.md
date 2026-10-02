@@ -1,7 +1,7 @@
 # Hello there 👋
 
 ## Introduction
-Hello, I'm Christopher Green, a software engineer focusing on game AI, gameplay systems, and some tools engineering. Currently studying at UCSC as a Computer Science: Game Design major. Currently a Game AI programmer / Tools Engineer at Game Design & Art (GDA) Collaboration club. 
+Hello, I'm Christopher Green, a software engineer focusing on game AI, gameplay systems, and tools engineering. Currently studying at UCSC as a Computer Science: Game Design major. Currently a Game AI programmer / Tools Engineer at Game Design & Art (GDA) Collaboration club. 
 
 My main tech stack is C#, C++, JavaScript, and Gdscript. In regards to engines, I am familiar with Godot, Unity, Phaser.js and currently learning Unreal Engine. Some of my favorite outside tools include Figma, Canva, Miro (love this for architecture), Reaper and Musescore. My Unreal Engine project will still be private, but it involves a hierarchical state machine, focusing on Newtonian physics for the base movement. On the side I compose music, inspired by my favorite games or films.
 
